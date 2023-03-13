@@ -1,5 +1,6 @@
 ### Hi there 👋
 # To improve is to change.
+# There is nothing permanent, except change
 <!--
 **MwiluM/MwiluM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
